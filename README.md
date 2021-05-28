@@ -1,6 +1,6 @@
-# shape.ai-CV-task
+## shape.ai-CV-task
 Python And Computer Vision-shape.ai
-# SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
+### SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
